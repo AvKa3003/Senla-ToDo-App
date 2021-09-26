@@ -19,4 +19,3 @@ Realized:
 ![Tablet](https://i.imgur.com/uC1QrRr.png "Tablet")
 ![Phone](https://i.imgur.com/SO4MxnQ.png "Phobe")  
   
-Has a problem - after updating any data whole notes container reload thereby causing twitching and disappearance of functional button on notes. Need full rewriting and realize update mechanic of reload with absolute another way.
