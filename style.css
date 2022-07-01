@@ -368,6 +368,7 @@ button[type="submit"]:active {
         bottom: 13px;
         left: 13px;
         top: auto;
+        width: fit-content;
     }
 
     .deleteButton {
