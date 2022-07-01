@@ -1,4 +1,5 @@
 # Senla free courses homework
+**[Check deploy](https://avka3003.github.io/Senla-ToDo-App/)**    
 Realized:  
 + Sorting by:  
 + + All  
@@ -11,7 +12,7 @@ Realized:
 + delete  
 + adaptability  
 + json saving  
-  
+
 ## PC  
 ![PC](https://i.imgur.com/CZAR4hY.png "PC")  
   
